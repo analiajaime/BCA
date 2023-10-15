@@ -1,5 +1,0 @@
-config.txt
-
-# Enable SPI
-
-dtparam=spi=on
